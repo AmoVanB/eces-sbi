@@ -9,7 +9,7 @@
 	</parent>
 
 	<artifactId>sbi</artifactId>
-	<version>1.1.13</version>
+	<version>1.1.14-SNAPSHOT</version>
 
 	<description>Southbound interface (SBI) of the OpenFlow 1.0 network controller of Chameleon (ACM CoNEXT 2020) using the ECES framework. The module does topology discovery and creates the network using the ECES network library. The module also listens to events from the tenant manager ECES library and automatically configures rules in the data plane when flows are created.</description>
 	<url>https://github.com/AmoVanB/eces-sbi</url>
